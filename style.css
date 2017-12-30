@@ -1,9 +1,9 @@
 body {
  width: 100%;
- height: 720px;
+ height: 1080px;
  background: url('bkgr.jpg') no-repeat;
  background-size: contain;
- margin-left: 10%;
+ margin-left: 0%;
 }
 
 ul {
@@ -31,7 +31,7 @@ ul li a {
 }
 
 ul li a:hover {
- background-color: green;
+ background-color: blue;
 }
 
 ul li ul li{
